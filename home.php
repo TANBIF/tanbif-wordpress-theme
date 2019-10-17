@@ -82,9 +82,9 @@
     <div class="col-md-12">
       <div class="col-lg-4 col-md-4 col-sm-6">
         <div class="panel panel-default">
-          <a href="https://lists.ala.org.au/iconic-species"><img class="img-responsive" src="<?php echo get_stylesheet_directory_uri(); ?>/img/homepage-channel-image-koala.jpg" alt="Koala"></a>
+          <a href="#"><img class="img-responsive" src="<?php echo get_stylesheet_directory_uri(); ?>/img/homepage-channel-image-koala.jpg" alt="Koala"></a>
           <div class="panel-body">
-            <h3><a href="https://lists.ala.org.au/iconic-species">Australian iconic species</a></h3>
+            <h3><a href="#">Tanzania iconic species</a></h3>
             <p class="help-block">
               Browse some of our most popular species, or search over 100,000 species within the ALA.
             </p>
@@ -95,9 +95,9 @@
         <div class="panel panel-default">
           <a href="/explore-by-location/"><img class="img-responsive" src="<?php echo get_stylesheet_directory_uri(); ?>/img/homepage-channel-image-lionfish.jpg" alt="Lionfish"></a>
           <div class="panel-body">
-            <h3><a href="/explore-by-location/">Explore by location</a></h3>
+            <h3><a href="#">Explore by location</a></h3>
             <p class="help-block">
-              Browse species by pre-defined <a href="http://regions.ala.org.au/">region</a> or by <a href="http://biocache.ala.org.au/explore/your-area">location</a>.
+              Browse species by pre-defined <a href="#">region</a> or by <a href="#">location</a>.
             </p>
           </div>
         </div>
@@ -108,7 +108,7 @@
           <div class="panel-body">
             <h3><a href="/mapping-and-analysis/">Mapping &amp; analysis</a></h3>
             <p class="help-block">
-              Explore species occurrence records using the <a href="http://spatial.ala.org.au/webportal/">Spatial Portal</a> or <a href="https://biocache.ala.org.au/search#tab_simpleSearch">search records</a> for species occurrences.
+              Explore species occurrence records using the <a href="#">Spatial Portal</a> or <a href="#">search records</a> for species occurrences.
             </p>
           </div>
         </div>
@@ -120,7 +120,7 @@
           <div class="panel-body">
             <h3><a href="/contribute-to-ala/">Contribute to the ALA</a></h3>
             <p class="help-block">
-              Get involved in <a href="/citizen-science-central/">citizen science</a>, digitise <a href="https://volunteer.ala.org.au/">survey records</a>, or <a href="https://sightings.ala.org.au/">contribute your sighting</a> to the ALA.
+              Get involved in <a href="#">citizen science</a>, digitise <a href="#">survey records</a>, or <a href="#">contribute your sighting</a> to the ALA.
             </p>
           </div>
         </div>
