@@ -38,7 +38,7 @@
   <div class="container" id="main">
 
     <div class="col-md-8 col-md-offset-2 hidden">
-      <h1 class="heading-large margin-bottom-quarter-1">Atlas of Living Australia</h1>
+      <h1 class="heading-large margin-bottom-quarter-1">Tanzania Biodiversity Informatiom Facility</h1>
       <h2 class="promotional">
         The Atlas of Living Australia is a collaborative, national project that aggregates biodiversity data from multiple sources and makes it freely available and usable online.
       </h2>
@@ -82,7 +82,7 @@
     <div class="col-md-12">
       <div class="col-lg-4 col-md-4 col-sm-6">
         <div class="panel panel-default">
-          <a href="#"><img class="img-responsive" src="<?php echo get_stylesheet_directory_uri(); ?>/img/homepage-channel-image-koala.jpg" alt="Koala"></a>
+          <a href="#"><img class="img-responsive" src="<?php echo get_stylesheet_directory_uri(); ?>/img/homepage-channel-image-dik-dik.jpg" alt="Koala"></a>
           <div class="panel-body">
             <h3><a href="#">Tanzania iconic species</a></h3>
             <p class="help-block">
@@ -93,7 +93,7 @@
       </div>
       <div class="col-lg-4 col-md-4 col-sm-6">
         <div class="panel panel-default">
-          <a href="/explore-by-location/"><img class="img-responsive" src="<?php echo get_stylesheet_directory_uri(); ?>/img/homepage-channel-image-lionfish.jpg" alt="Lionfish"></a>
+          <a href="/explore-by-location/"><img class="img-responsive" src="<?php echo get_stylesheet_directory_uri(); ?>/img/homepage-channel-image-pea.jpg" alt="Lionfish"></a>
           <div class="panel-body">
             <h3><a href="#">Explore by location</a></h3>
             <p class="help-block">
@@ -104,7 +104,7 @@
       </div>
       <div class="col-lg-4 col-md-4 col-sm-6">
         <div class="panel panel-default">
-          <a href="/mapping-and-analysis/"><img class="img-responsive" src="<?php echo get_stylesheet_directory_uri(); ?>/img/homepage-channel-image-rainbow-lorikeet.jpg" alt="Rainbow Lorikeet"></a>
+          <a href="/mapping-and-analysis/"><img class="img-responsive" src="<?php echo get_stylesheet_directory_uri(); ?>/img/homepage-channel-image-cloves.jpg" alt="Rainbow Lorikeet"></a>
           <div class="panel-body">
             <h3><a href="/mapping-and-analysis/">Mapping &amp; analysis</a></h3>
             <p class="help-block">
@@ -116,11 +116,11 @@
       <!-- End Col -->
       <div class="col-lg-4 col-md-4 col-sm-6">
         <div class="panel panel-default">
-          <a href="/contribute-to-ala/"><img class="img-responsive" src="<?php echo get_stylesheet_directory_uri(); ?>/img/ala-info-hub-get-involved-icon.jpg" alt="Contribute icon"></a>
+          <a href="/contribute-to-tanbif/"><img class="img-responsive" src="<?php echo get_stylesheet_directory_uri(); ?>/img/ala-info-hub-get-involved-icon.jpg" alt="Contribute icon"></a>
           <div class="panel-body">
-            <h3><a href="/contribute-to-ala/">Contribute to the ALA</a></h3>
+            <h3><a href="/contribute-to-tanbif/">Contribute to TanBIF</a></h3>
             <p class="help-block">
-              Get involved in <a href="#">citizen science</a>, digitise <a href="#">survey records</a>, or <a href="#">contribute your sighting</a> to the ALA.
+              Get involved in <a href="#">citizen science</a>, digitise <a href="#">survey records</a>, or <a href="#">contribute your sighting</a> to TanBIF.
             </p>
           </div>
         </div>
@@ -131,7 +131,7 @@
             <img class="img-responsive" src="<?php echo get_stylesheet_directory_uri(); ?>/img/ala-info-hub-how-you-can-icon.jpg" alt="ALA news icon">
           </a>
           <div class="panel-body">
-            <h3><a href="/blogs-news/">ALA Blog</a></h3>
+            <h3><a href="/blogs-news/">TanBIF Blog</a></h3>
             <p class="help-block">
               Browse news and events from around the ALA community, and keep up to date with how we are engaging with our users.
             </p>
@@ -140,13 +140,13 @@
       </div>
       <div class="col-lg-4 col-md-4 col-sm-6">
         <div class="panel panel-default">
-          <a href="/ala-knowledge-base/">
+          <a href="/tanbif-knowledge-base/">
             <img class="img-responsive" src="<?php echo get_stylesheet_directory_uri(); ?>/img/ala-info-hub-education-icon.jpg" alt="Knowledge Base icon">
           </a>
           <div class="panel-body">
-            <h3><a href="/ala-knowledge-base/">ALA knowledge base</a></h3>
+            <h3><a href="/tanbif-knowledge-base/">TanBIF knowledge base</a></h3>
             <p class="help-block">
-              Learn about the ALA and discover the many different ways in which we can help you achieve your goals.
+              Learn about TanBIF and discover the many different ways in which we can help you achieve your goals.
             </p>
           </div>
         </div>
