@@ -12,7 +12,7 @@
 <?php } ?>
 <?php endwhile; ?>
 <?php endif; ?>
-      <div class="col-lg-6 col-md-8 col-sm-12 promotional">The <strong>Atlas of Living Australia</strong> is a collaborative, national project that aggregates biodiversity data from multiple sources and makes it freely available and usable online.</div>
+      <div class="col-lg-6 col-md-8 col-sm-12 promotional">The <strong>Tanzania Biodiversity Information Facility</strong> is a collaborative, national project that aggregates biodiversity data from multiple sources and makes it freely available and usable online.</div>
     </div>
   </div>
 <?php // theloop - but only for the alert
@@ -50,28 +50,28 @@
         <div class="main-stats col-lg-3 col-md-3 col-sm-6">
           <h4>Occurrence Records</h4>
           <div class="stat-number" id="allRecords">
-            72,266,000
+            0
           </div>
         </div>
 
         <div class="main-stats col-lg-3 col-md-3 col-sm-6">
           <h4>Species</h4>
           <div class="stat-number" id="allSpecies">
-            195,000
+            0
           </div>
         </div>
 
         <div class="main-stats col-lg-3 col-md-3 col-sm-6">
           <h4>Data downloads</h4>
           <div class="stat-number" id="allDownloads">
-            1.58M
+            0
           </div>
         </div>
 
         <div class="main-stats col-lg-3 col-md-3 col-sm-6">
           <h4>Registered users</h4>
           <div class="stat-number" id="allUsers">
-            40,000
+            0
           </div>
         </div>
       </div><!-- End main stats -->

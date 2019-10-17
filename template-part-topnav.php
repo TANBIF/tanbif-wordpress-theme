@@ -9,7 +9,7 @@
           <span class="icon-bar"></span>
         </button>
         <a class="navbar-brand" href="/">
-          <img alt="Brand" src="<?php echo get_stylesheet_directory_uri(); ?>/img/ala-logo-2016-inline.png">
+          <img alt="Brand" src="<?php echo get_stylesheet_directory_uri(); ?>/img/tanbif-logo.png">
         </a>
       </div>
 
@@ -55,7 +55,7 @@
               <span class="caret"></span>
             </a>
             <ul class="dropdown-menu" role="menu">
-              <li><a href="#">Australian iconic species</a></li>
+              <li><a href="/collectory">Collections</a></li>
               <li><a href="#">Explore your area</a></li>
               <li><a href="#">Explore regions</a></li>
               <li><a href="#">Search occurrence records</a></li>
