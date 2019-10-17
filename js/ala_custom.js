@@ -52,7 +52,7 @@ jQuery(document).ready(function($) {
     // Change banner images based on month - format jtron-bg-month-01-770px.jpg
     if ($('#ala-jumbotron').length) { 
         var month = ("0" + new Date().getMonth()).slice(-2); // note getMonth is zero-indexed, so Jan is 00
-        var filename = "wp-content/themes/alas/img/jtron-bg-month-" + month + "-770px.jpg"
+        var filename = "wp-content/themes/alastanbif-wordpress-theme/img/jtron-bg-month-" + month + "-770px.jpg"
         document.getElementById("ala-jumbotron").style.backgroundImage = "url('" + filename + "')";
     }
  
