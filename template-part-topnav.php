@@ -96,19 +96,19 @@
               <span class="caret"></span>
             </a>
             <ul class="dropdown-menu" role="menu">
-              <li><a href="/who-we-are/">Who we are</a></li>
+              <li><a href="/about-tanbif/">Who we are</a></li>
+<!--               <li class="divider"></li>
+              <li><a href="#">How to use the ALA</a></li>
+              <li><a href="#">How to work with data</a></li>
+              <li><a href="#">How to cite the ALA</a></li>
               <li class="divider"></li>
-              <li><a href="/how-to-use-ala/">How to use the ALA</a></li>
-              <li><a href="/how-to-work-with-data/">How to work with data</a></li>
-              <li><a href="/how-to-cite-ala/">How to cite the ALA</a></li>
+              <li><a href="#">Education resources</a></li>
+              <li><a href="#">Indigenous Ecological Knowledge</a></li> -->
               <li class="divider"></li>
-              <li><a href="/education-resources/">Education resources</a></li>
-              <li><a href="/ala-and-indigenous-ecological-knowledge-iek/">Indigenous Ecological Knowledge</a></li>
+              <li><a href="/news/">ALA Blog</a></li>
               <li class="divider"></li>
-              <li><a href="/blogs-news/">ALA Blog</a></li>
-              <li class="divider"></li>
-              <li><a href="/about-the-atlas/contact-us/">Contact us</a></li>
-              <li><a href="/about-the-atlas/feedback-form/">Feedback form</a></li>
+              <li><a href="/about-tanbif/contact-us/">Contact us</a></li>
+<!--               <li><a href="#">Feedback form</a></li> -->
             </ul>
           </li>
           <li class="dropdown">
