@@ -990,3 +990,8 @@ body > footer > div > div.col-md-12.acknowledgement-callout.acknowledgement-call
     margin:-60px 0 0;
   }
 }
+
+.github {
+  height: 32px;
+  width: auto;
+}

@@ -136,7 +136,7 @@
               <a id="facebook" title="Facebook" href="#"><img src="<?php echo get_stylesheet_directory_uri(); ?>/img/social_facebook_29px.png" alt="Facebook" /></a>
             </li>
             <li class="footer-item footer-social">
-              <a id="facebook" title="Github Team" href="https://github.com/orgs/DevOps-2019/people"><img src="<?php echo get_stylesheet_directory_uri(); ?>/img/github.png" alt="GitHub Team" /></a>
+              <a id="facebook" title="Github Team" href="https://github.com/orgs/DevOps-2019/people"><img src="<?php echo get_stylesheet_directory_uri(); ?>/img/github.png" alt="GitHub Team" class="github" /></a>
             </li>
             <li class="footer-item footer-item-text footer-item-start"><a href="/who-we-are/terms-of-use/#Copyright">Copyright</a></li>
             <li class="footer-item footer-item-text"><a href="/about-the-atlas/terms-of-use/">Terms of use</a></li>
