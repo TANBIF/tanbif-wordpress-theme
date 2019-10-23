@@ -111,10 +111,21 @@ div.col-md-1>ul.nav-login>li>a:visited {color: #fff;}
 #global-search {padding: 0;}
 .form-control {border-radius: 0;}
 .icon-addon {position: relative;color: #637073;display: block;}
-.icon-addon.addon-lg .form-control {line-height: 1.33;height: 46px;font-size: 18px;padding: 10px 16px 10px 50px;}
+.icon-addon.addon-lg .form-control {line-height: 1.33;height: 46px;font-size: 18px;padding: 10px 16px 10px 50px;border-top-left-radius: 30px; border-bottom-left-radius: 30px;}
 .icon-addon.addon-md .form-control, .icon-addon .form-control {padding-left: 30px;float: left;font-weight: normal;}
 .icon-addon.addon-lg .fa, .icon-addon.addon-lg .glyphicon {font-size: 16px;margin-left: 0;left: 12px;top: 7px;}
 .icon-addon.addon-md .glyphicon, .icon-addon .glyphicon, .icon-addon.addon-md .fa, .icon-addon .fa {position: absolute;z-index: 2;left: 10px;font-size: 14px;width: 20px;margin-left: -2.5px;text-align: center;padding: 10px 0;top: 1px;}
+.input-group .search {
+  background: #409954;
+  height: 45.5px;
+  color: white;
+  width: 80px;
+  -webkit-font-smoothing: antialiased;
+  text-shadow: none;
+  border-bottom-right-radius: 30px;
+  border-top-right-radius: 30px;
+}
+.icon-addon.addon-lg .form-control
 
 /* Jumbotron
 ================================= */
@@ -699,10 +710,10 @@ footer ul {list-style: none;}
 .footer-item {float: left;margin-right: 20px;height: 24px;line-height: 24px;margin-top:3px;}
 .footer-social {margin-bottom: 12px;margin-top:0;}
 .footer-item-status {margin-right: 0;float: right;}
-.footer-bonus-brands a {display: inline-block;background: url('../img/footer-bonus-logos-mono.png') no-repeat;overflow: hidden;text-indent: -9999px;text-align: left;}
-.footer-bonus-brands #ncris {background-position: -5px -0px; width: 152px; height: 60px; margin: 20px 40px 75px 0;}
-.footer-bonus-brands #csiro {background-position: -5px -132px; width: 100px; height: 100px; margin: 5px 40px 60px 0;}
-.footer-bonus-brands #gbif {background-position: -5px -65px; width: 151px; height: 62px; margin: 20px 40px 75px 0;}
+.footer-bonus-brands a {display: inline-block;background: no-repeat;overflow: hidden;text-indent: -9999px;text-align: left; width: 120px; height: 120px; margin: 20px 40px 75px 0;}
+.footer-bonus-brands #jrs {background-image: url('../img/jrs.png'); background-size: cover; }
+.footer-bonus-brands #costech {background-image: url('../img/costech.jpg'); background-size: cover;}
+.footer-bonus-brands #dit {background-image: url('../img/dit.png'); background-size: cover; }
 /*.footer-bonus-brands #aus-govt {background-position: -10px -0px;width: 202px;height: 66px; margin: 20px 40px 72px 0;}*/
 .footer-container {padding: 30px;}
 /*hr.footer-border {margin: -30px 0 20px 0;border-top: 1px solid #e2e5e8;}*/
@@ -968,9 +979,9 @@ body > footer > div > div.col-md-12.acknowledgement-callout.acknowledgement-call
   .footer-bonus-link{height:30px;margin:5px 20px 35px 0}
   .footer-bonus-item:last-child{margin-bottom:0}
   .footer-bonus-item{margin-bottom:40px}
-  .footer-bonus-brands #ncris{margin:5px 0 20px;display:block}
-  .footer-bonus-brands #csiro{margin:0 0 20px;display:block}
-  .footer-bonus-brands #gbif{margin:0 0 20px;display:block}
+  .footer-bonus-brands #jrs{margin:5px 0 20px;display:block}
+  .footer-bonus-brands #costech{margin:0 0 20px;display:block}
+  .footer-bonus-brands #dit{margin:0 0 20px;display:block}
   .footer-bonus-brands #aus-govt{margin:0 0 40px;display:block}
   :target:before {
     content:"";

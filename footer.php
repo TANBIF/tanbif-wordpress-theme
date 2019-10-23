@@ -27,7 +27,7 @@
             <li><a href="http://collections.ala.org.au/datasets">Search datasets</a></li>
             <li><a href="https://downloads.ala.org.au">Download data</a>
             <li><a href="http://spatial.ala.org.au/">Spatial portal</a></li>
-            <li><a href="https://dashboard.ala.org.au/">ALA dashboard</a></li>
+            <li><a href="https://dashboard.ala.org.au/">TanBIF Portal dashboard</a></li>
           </ul>
         </div> -->
 
@@ -51,15 +51,15 @@
         <!-- </div>
 
         <div class="col-xs-6 col-sm-4 col-lg-2 hidden-print">
-          <h5 class="footer-second-row">Learn about the ALA</h5>
+          <h5 class="footer-second-row">Learn about the TanBIF Portal</h5>
           <ul class="link-list">
             <li><a href="/who-we-are/">Who we are</a></li>
-            <li><a href="/how-to-use-ala/">How to use the ALA</a></li>
+            <li><a href="/how-to-use-ala/">How to use the TanBIF Portal</a></li>
             <li><a href="/how-to-work-with-data/">How to work with data</a></li>
-            <li><a href="/how-to-cite-ala/">How to cite the ALA</a></li>
+            <li><a href="/how-to-cite-ala/">How to cite the TanBIF Portal</a></li>
             <li><a href="/education-resources/">Education resources</a></li>
             <li><a href="/ala-and-indigenous-ecological-knowledge-iek/">Indigenous Ecological Knowledge</a></li>
-            <li><a href="/blogs-news/">ALA Blog</a></li>
+            <li><a href="/blogs-news/">TanBIF Portal Blog</a></li>
           </ul>
         </div>
 
@@ -86,14 +86,14 @@
           <a href="#" title="Contribute your sightings" class="footer-bonus-link">
             <img class="img-responsive" src="<?php echo get_stylesheet_directory_uri(); ?>/img/footer-bonus-cit-science-icon.png" alt="Citizen Science icon">
           </a>
-          <p class="footer-bonus-description">Find out how you can <a href="https://biocollect.ala.org.au/acsa">contribute to a citizen science project</a> in your area, or explore one of the many citizen science projects supported by the ALA.</p>
+          <p class="footer-bonus-description">Find out how you can <a href="https://biocollect.ala.org.au/acsa">contribute to a citizen science project</a> in your area, or explore one of the many citizen science projects supported by the TanBIF Portal.</p>
         </div>
         <div class="col-md-4 col-sm-12 footer-bonus-item">
           <h5 class="footer-bonus-heading">Record a sighting</h5>
           <a href="#" title="Did you see something?" class="footer-bonus-link">
             <img class="img-responsive" src="<?php echo get_stylesheet_directory_uri(); ?>/img/footer-bonus-record-sighting-icon.png" alt="Sightings icon">
           </a>
-          <p class="footer-bonus-description">Did you see something? Photograph something? <a href="https://sightings.ala.org.au/">Contribute your sighting</a> to the ALA.</p>
+          <p class="footer-bonus-description">Did you see something? Photograph something? <a href="#">Contribute your sighting</a> to the TanBIF Portal.</p>
         </div>
 
       </div>
@@ -101,22 +101,27 @@
       <div class="row col-sm-12 acknowledgement-callout acknowledgement-callout-ala">
         <div class="col-md-10 col-sm-12">
           <h4 class="margin-bottom-half-1">Acknowledgement of Traditional Owners and Country</h4>
-          <p>The Atlas of Living Australia acknowledges Australia’s Traditional Owners and pays respect to the past and present Elders of the nation’s Aboriginal and Torres Strait Islander communities. We honour and celebrate the spiritual, cultural and customary connections of Traditional Owners to country and the biodiversity that forms part of that country.</p>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+          consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+          cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+          proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
         </div>
         <div class="clearfix"></div>
       </div>
       <!-- Logo section -->
       <div class="row">
         <div class="col-md-12">
-          <h5 class="footer-bonus-heading">The ALA is made possible by contributions from its partners, is supported by NCRIS and hosted by CSIRO.</h5>
+          <h5 class="footer-bonus-heading">The TANBIF is made possible by contributions from its partners, is supported by JRS and hosted by DIT</h5>
         </div>
       </div>
 
       <div class="row">
         <div class="col-md-12 footer-bonus-brands">
-          <a href="https://www.education.gov.au/national-collaborative-research-infrastructure-strategy-ncris" class="img-responsive" id="ncris">NCRIS</a>
-          <a href="https://www.csiro.au/" id="csiro">CSIRO</a>
-          <a href="http://www.gbif.org/" class="img-responsive" id="gbif">GBIF</a>
+          <a href="https://jrsbiodiversity.org/" class="img-responsive" id="jrs">JRS Biodiversity Foundation</a>
+          <a href="http://www.costech.or.tz/" id="costech" class="img-responsive">COSTECH</a>
+          <a href="https://www.dit.ac.tz/" class="img-responsive" id="dit">DIT</a>
         </div>
       </div>
       <!-- End logo section -->
@@ -156,7 +161,7 @@
 <?php wp_footer(); ?>
 <script type="text/javascript" src="https://s3.amazonaws.com/assets.freshdesk.com/widget/freshwidget.js"></script>
 <script type="text/javascript">
-FreshWidget.init("", {"queryString": "&widgetType=popup&helpdesk_ticket[group_id]=6000207804&helpdesk_ticket[product_id]=6000005589&formTitle=ALA+support", "utf8": "✓", "widgetType": "popup", "buttonType": "text", "buttonText": "Support", "buttonColor": "white", "buttonBg": "#d5502a", "alignment": "2", "offset": "197px", "formHeight": "500px", "url": "https://support.ala.org.au"} );
+FreshWidget.init("", {"queryString": "&widgetType=popup&helpdesk_ticket[group_id]=6000207804&helpdesk_ticket[product_id]=6000005589&formTitle=TanBIF Portal+support", "utf8": "✓", "widgetType": "popup", "buttonType": "text", "buttonText": "Support", "buttonColor": "white", "buttonBg": "#d5502a", "alignment": "2", "offset": "197px", "formHeight": "500px", "url": "https://support.ala.org.au"} );
 </script>
 </body>
 </html>

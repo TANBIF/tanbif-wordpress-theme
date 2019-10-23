@@ -9,17 +9,22 @@
           <span class="icon-bar"></span>
         </button>
         <a class="navbar-brand" href="/">
-          <img alt="Brand" src="<?php echo get_stylesheet_directory_uri(); ?>/img/tanbif-logo.png">
+          <img alt="Brand" src="<?php echo get_stylesheet_directory_uri(); ?>/img/tanbif-logo.svg">
         </a>
       </div>
 
       <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
         <div class="row row-search">
           <div class="col-xs-12 col-sm-4 col-md-6">
-            <form id="global-search" class="banner" action="https://bie.ala.org.au/search" method="get" name="search-form">
-              <div class="icon-addon addon-lg">
-                <input type="text" placeholder="Search the Atlas ..." class="form-control autocomplete" id="biesearch" name="q">
-                <label for="biesearch" class="glyphicon glyphicon-search" rel="tooltip" title="search"></label>
+            <form id="global-search" class="banner" action="#" method="get" name="search-form">
+              <div class="input-group">
+                <div class="icon-addon addon-lg">
+                  <input type="text" placeholder="Search the Portal ..." class="form-control autocomplete" id="biesearch" name="q">
+                  <label for="biesearch" class="glyphicon glyphicon-search" rel="tooltip" title="search"></label>
+                </div>
+                <span class="input-group-btn">
+                  <button class="btn btn-default search" type="button">Search</button>
+                </span>
               </div>
             </form>
           </div>
@@ -41,7 +46,7 @@
             </ul>
 <?php } else { ?>
             <ul class="nav navbar-nav navbar-right nav-login">
-              <li><a href="<?php echo wp_login_url( home_url() ); ?>">Log in</a></li>
+              <!-- <li><a href="<?php echo wp_login_url( home_url() ); ?>">Log in</a></li> -->
             </ul> 
 <?php } ?>
 
@@ -55,7 +60,7 @@
               <span class="caret"></span>
             </a>
             <ul class="dropdown-menu" role="menu">
-              <li><a href="/collectory">Collections</a></li>
+              <li><a href="/collections">Collections</a></li>
               <li><a href="#">Explore your area</a></li>
               <li><a href="#">Explore regions</a></li>
               <li><a href="#">Search occurrence records</a></li>
@@ -74,7 +79,7 @@
               <li><a href="#">Download data</a>
               <li><a href="#">Spatial portal</a></li>
               <li class="divider"></li>
-              <li><a href="#">ALA dashboard</a></li>
+              <li><a href="#">TanBIF Portal dashboard</a></li>
             </ul>
           </li>
           <li class="dropdown">
@@ -84,28 +89,28 @@
             </a>
             <ul class="dropdown-menu" role="menu">
               <li><a href="#">Join a Citizen Science project</a></li>
-              <li><a href="#">Record a sighting in the ALA</a></li>
-              <li><a href="#">Submit a dataset to the ALA</a></li>
+              <li><a href="#">Record a sighting in the TanBIF Portal</a></li>
+              <li><a href="#">Submit a dataset to the TanBIF Portal</a></li>
               <li><a href="#">Digitise a record in DigiVol</a></li>
               <li><a href="#">Mobile apps</a></li>
             </ul>
           </li>
           <li class="dropdown">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
-              Learn about the ALA
+              Learn about the TanBIF Portal
               <span class="caret"></span>
             </a>
             <ul class="dropdown-menu" role="menu">
               <li><a href="/about-tanbif/">Who we are</a></li>
 <!--               <li class="divider"></li>
-              <li><a href="#">How to use the ALA</a></li>
+              <li><a href="#">How to use the TanBIF Portal</a></li>
               <li><a href="#">How to work with data</a></li>
-              <li><a href="#">How to cite the ALA</a></li>
+              <li><a href="#">How to cite the TanBIF Portal</a></li>
               <li class="divider"></li>
               <li><a href="#">Education resources</a></li>
               <li><a href="#">Indigenous Ecological Knowledge</a></li> -->
               <li class="divider"></li>
-              <li><a href="/news/">ALA Blog</a></li>
+              <li><a href="/news/">TanBIF Portal Blog</a></li>
               <li class="divider"></li>
               <li><a href="/about-tanbif/contact-us/">Contact us</a></li>
 <!--               <li><a href="#">Feedback form</a></li> -->
