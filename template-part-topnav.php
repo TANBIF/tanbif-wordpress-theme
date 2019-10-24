@@ -102,13 +102,14 @@
             </a>
             <ul class="dropdown-menu" role="menu">
               <li><a href="/about-tanbif/">Who we are</a></li>
-<!--               <li class="divider"></li>
-              <li><a href="#">How to use the TanBIF Portal</a></li>
-              <li><a href="#">How to work with data</a></li>
-              <li><a href="#">How to cite the TanBIF Portal</a></li>
               <li class="divider"></li>
-              <li><a href="#">Education resources</a></li>
-              <li><a href="#">Indigenous Ecological Knowledge</a></li> -->
+              
+              <li><a href="/how-to-use-tanbif-portal/">How to use TanBIF Portal</a></li>
+              <li><a href="/how-to-work-with-data/">How to work with data</a></li>
+              <li><a href="/how-to-cite-ala/">How to cite TanBIF Portal</a></li>
+              <!-- <li class="divider"></li> -->
+              <!-- <li><a href="#">Education resources</a></li> -->
+              <!-- <li><a href="#">Indigenous Ecological Knowledge</a></li> -->
               <li class="divider"></li>
               <li><a href="/news/">TanBIF Portal Blog</a></li>
               <li class="divider"></li>
@@ -124,8 +125,8 @@
             <ul class="dropdown-menu" role="menu">
               <li><a href="#">Knowledge base</a></li>
               <li class="divider"></li>
-              <li><a href="/about-the-atlas/contact-us/">Contact us</a></li>
-              <li><a href="/about-the-atlas/feedback-form/">Feedback form</a></li>
+              <li><a href="/about-tanbifs/contact-us/">Contact us</a></li>
+              <li><a href="/about-tanbif/feedback-form/">Feedback form</a></li>
             </ul>
           </li>
         </ul>
