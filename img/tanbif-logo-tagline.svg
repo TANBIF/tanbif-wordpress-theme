@@ -4,9 +4,20 @@
 	 viewBox="0 0 1280 720" style="enable-background:new 0 0 1280 720;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#229954;}
-	.st1{fill:#FFFF00;}
-	.st2{fill:url(#SVGID_1_);}
+	.st1{font-family:'Gentona-Bold';}
+	.st2{font-size:60px;}
+	.st3{letter-spacing:7.1;}
+	.st4{letter-spacing:8;}
+	.st5{fill:#FFFF00;}
+	.st6{fill:url(#SVGID_1_);}
 </style>
+<text transform="matrix(0.7 0 0 0.7 21.8354 499.4434)" class="st0 st1 st2 st3">tanzania</text>
+<text transform="matrix(1 0 0 1 275.3032 499.4434)" class="st0 st1 st2 st4"> B</text>
+<text transform="matrix(0.7 0 0 0.7 340.2827 499.4434)" class="st0 st1 st2 st3">iodiversity</text>
+<text transform="matrix(1 0 0 1 649.1465 499.4434)" class="st0 st1 st2 st4"> I</text>
+<text transform="matrix(0.7 0 0 0.7 694.6865 499.4434)" class="st0 st1 st2 st3">nformation</text>
+<text transform="matrix(1 0 0 1 1016.4033 499.4434)" class="st0 st1 st2 st4"> F</text>
+<text transform="matrix(0.7 0 0 0.7 1076.7617 499.4434)" class="st0 st1 st2 st3">acility</text>
 <g>
 	<path class="st0" d="M413.7,144.9L370,201.7c-10,13-25.5,20.6-41.9,20.6h-80.4v220.3h-92.1V222.3H15.9l43.8-56.8
 		c10-13,25.5-20.6,41.9-20.6H413.7z"/>
@@ -23,14 +34,14 @@
 		c-0.7-6.6,0.6-19.8,1.5-27.1h-13.8v140.8h83.2V301.8H948.2z"/>
 	<path class="st0" d="M659.3,222.7c-2.8-0.2-5.7-0.3-8.7-0.3c0,0,0,0,0,0c-24.5,0-45.4,10.2-73.9,32.5v-28.9h-80.5v216.7h80.5V318
 		c10.7-12,22.2-20,36.1-20c16,0,20,7.1,20,29.8v114.8h80.5v-138C713.3,249.9,698.2,225.7,659.3,222.7z"/>
-	<path class="st1" d="M1016,170.3c-27.7,21.9-14.6,74.1-21.4,98.6c-6.7,24.5-44.7,29.2-44.7,29.2c1.7-45.3,29.2-86.5,30-87.8
+	<path class="st5" d="M1016,170.3c-27.7,21.9-14.6,74.1-21.4,98.6c-6.7,24.5-44.7,29.2-44.7,29.2c1.7-45.3,29.2-86.5,30-87.8
 		c-25.8,29.6-33.2,67.3-35,91.6c-1.1,14.7-0.2,24.5-0.2,24.5c-1.2,5.7-5.6,2.2-5.6,2.2c-0.7-6.4,0.7-19.6,1.5-26.7
 		c0.3-2.8,0.6-4.7,0.6-4.7C897.6,207,1014.4,170.8,1016,170.3z"/>
 	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="960.7514" y1="263.3265" x2="1010.4698" y2="137.3423">
 		<stop  offset="0.2564" style="stop-color:#229954"/>
 		<stop  offset="1" style="stop-color:#FFFFFF"/>
 	</linearGradient>
-	<path class="st2" d="M1016,170.3c-27.7,21.9-14.6,74.1-21.4,98.6c-6.7,24.5-44.7,29.2-44.7,29.2c1.7-45.3,29.2-86.5,30-87.8
+	<path class="st6" d="M1016,170.3c-27.7,21.9-14.6,74.1-21.4,98.6c-6.7,24.5-44.7,29.2-44.7,29.2c1.7-45.3,29.2-86.5,30-87.8
 		c-25.8,29.6-33.2,67.3-35,91.6c-1.1,14.7-0.2,24.5-0.2,24.5c-1.2,5.7-5.6,2.2-5.6,2.2c-0.7-6.4,0.7-19.6,1.5-26.7
 		c0.3-2.8,0.6-4.7,0.6-4.7C897.6,207,1014.4,170.8,1016,170.3z"/>
 	<path class="st0" d="M1113.2,276.9h-3.2v-35.3h72.8c16.7,0,32.4-7.9,42.3-21.3l36.5-49h-232.8v271.2h81.5v-76.2h-0.3V343h61
