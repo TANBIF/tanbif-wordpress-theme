@@ -40,7 +40,7 @@
     <div class="col-md-8 col-md-offset-2 hidden">
       <h1 class="heading-large margin-bottom-quarter-1">Tanzania Biodiversity Informatiom Facility</h1>
       <h2 class="promotional">
-        The Atlas of Living Australia is a collaborative, national project that aggregates biodiversity data from multiple sources and makes it freely available and usable online.
+        Tanzania Biodiversity Information Facility is a collaborative, national project that aggregates biodiversity data from multiple sources and makes it freely available and usable online.
       </h2>
     </div>
 
