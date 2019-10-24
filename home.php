@@ -128,12 +128,12 @@
       <div class="col-lg-4 col-md-4 col-sm-6">
         <div class="panel panel-default">
           <a href="/blogs-news/">
-            <img class="img-responsive" src="<?php echo get_stylesheet_directory_uri(); ?>/img/ala-info-hub-how-you-can-icon.jpg" alt="ALA news icon">
+            <img class="img-responsive" src="<?php echo get_stylesheet_directory_uri(); ?>/img/ala-info-hub-how-you-can-icon.jpg" alt="TanBIFnews icon">
           </a>
           <div class="panel-body">
             <h3><a href="/blogs-news/">TanBIF Blog</a></h3>
             <p class="help-block">
-              Browse news and events from around the ALA community, and keep up to date with how we are engaging with our users.
+              Browse news and events from around the TanBIFcommunity, and keep up to date with how we are engaging with our users.
             </p>
           </div>
         </div>

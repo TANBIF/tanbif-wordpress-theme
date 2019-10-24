@@ -1,11 +1,11 @@
       <aside class="col-lg-3 col-md-3 col-sm-12 hidden-print">
         <div class="panel panel-default">
           <div class="panel-heading">
-          <h3 class="cta heading-underlined">Contribute to the ALA</h3>
+          <h3 class="cta heading-underlined">Contribute to the TanBIF</h3>
         </div>
         <div class="panel-body">
           <p class="lead cta">
-            Australia's academic, scientific, and environmental communities have contributed to the ALA. You can too.
+            Australia's academic, scientific, and environmental communities have contributed to the TanBIF. You can too.
           </p>
           <a href="/get-involved/" class="btn btn-primary btn-block btn-lg">Contribute</a>
         </div>
