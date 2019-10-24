@@ -40,7 +40,7 @@
     <div class="col-md-8 col-md-offset-2 hidden">
       <h1 class="heading-large margin-bottom-quarter-1">Tanzania Biodiversity Informatiom Facility</h1>
       <h2 class="promotional">
-        The Atlas of Living Australia is a collaborative, national project that aggregates biodiversity data from multiple sources and makes it freely available and usable online.
+        Tanzania Biodiversity Information Facility is a collaborative, national project that aggregates biodiversity data from multiple sources and makes it freely available and usable online.
       </h2>
     </div>
 
@@ -86,7 +86,7 @@
           <div class="panel-body">
             <h3><a href="#">Tanzania iconic species</a></h3>
             <p class="help-block">
-              Browse some of our most popular species, or search over 100,000 species within the ALA.
+              Browse some of our most popular species, or search over 100,000 species within the TanBIF Portal.
             </p>
           </div>
         </div>
@@ -128,12 +128,12 @@
       <div class="col-lg-4 col-md-4 col-sm-6">
         <div class="panel panel-default">
           <a href="/blogs-news/">
-            <img class="img-responsive" src="<?php echo get_stylesheet_directory_uri(); ?>/img/blog.jpg" alt="ALA news icon">
+            <img class="img-responsive" src="<?php echo get_stylesheet_directory_uri(); ?>/img/blog.jpg" alt="TanBIFnews icon">
           </a>
           <div class="panel-body">
             <h3><a href="/blogs-news/">TanBIF Blog</a></h3>
             <p class="help-block">
-              Browse news and events from around the ALA community, and keep up to date with how we are engaging with our users.
+              Browse news and events from around the TanBIFcommunity, and keep up to date with how we are engaging with our users.
             </p>
           </div>
         </div>
