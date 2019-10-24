@@ -116,7 +116,7 @@
       <!-- End Col -->
       <div class="col-lg-4 col-md-4 col-sm-6">
         <div class="panel panel-default">
-          <a href="/contribute-to-tanbif/"><img class="img-responsive" src="<?php echo get_stylesheet_directory_uri(); ?>/img/ala-info-hub-get-involved-icon.jpg" alt="Contribute icon"></a>
+          <a href="/contribute-to-tanbif/"><img class="img-responsive" src="<?php echo get_stylesheet_directory_uri(); ?>/img/people.jpg" alt="Contribute icon"></a>
           <div class="panel-body">
             <h3><a href="/contribute-to-tanbif/">Contribute to TanBIF</a></h3>
             <p class="help-block">
@@ -128,7 +128,7 @@
       <div class="col-lg-4 col-md-4 col-sm-6">
         <div class="panel panel-default">
           <a href="/blogs-news/">
-            <img class="img-responsive" src="<?php echo get_stylesheet_directory_uri(); ?>/img/ala-info-hub-how-you-can-icon.jpg" alt="ALA news icon">
+            <img class="img-responsive" src="<?php echo get_stylesheet_directory_uri(); ?>/img/blog.jpg" alt="ALA news icon">
           </a>
           <div class="panel-body">
             <h3><a href="/blogs-news/">TanBIF Blog</a></h3>
@@ -141,7 +141,7 @@
       <div class="col-lg-4 col-md-4 col-sm-6">
         <div class="panel panel-default">
           <a href="/tanbif-knowledge-base/">
-            <img class="img-responsive" src="<?php echo get_stylesheet_directory_uri(); ?>/img/ala-info-hub-education-icon.jpg" alt="Knowledge Base icon">
+            <img class="img-responsive" src="<?php echo get_stylesheet_directory_uri(); ?>/img/book.jpg" alt="Knowledge Base icon">
           </a>
           <div class="panel-body">
             <h3><a href="/tanbif-knowledge-base/">TanBIF knowledge base</a></h3>

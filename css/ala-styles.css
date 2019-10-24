@@ -995,3 +995,8 @@ body > footer > div > div.col-md-12.acknowledgement-callout.acknowledgement-call
   height: 32px;
   width: auto;
 }
+
+.navbar-brand img{
+  height: 70px;
+  margin-top: -10px;
+}
