@@ -119,9 +119,9 @@
 
       <div class="row">
         <div class="col-md-12 footer-bonus-brands">
-          <a href="https://jrsbiodiversity.org/" class="img-responsive" id="jrs">JRS Biodiversity Foundation</a>
-          <a href="http://www.costech.or.tz/" id="costech" class="img-responsive">COSTECH</a>
           <a href="https://www.dit.ac.tz/" class="img-responsive" id="dit">DIT</a>
+          <a href="http://www.costech.or.tz/" id="costech" class="img-responsive">COSTECH</a>
+          <a href="https://jrsbiodiversity.org/" class="img-responsive" id="jrs">JRS Biodiversity Foundation</a>
         </div>
       </div>
       <!-- End logo section -->
