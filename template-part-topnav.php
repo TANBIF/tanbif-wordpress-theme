@@ -61,6 +61,7 @@
             </a>
             <ul class="dropdown-menu" role="menu">
               <li><a href="/collections">Collections</a></li>
+              <li><a href="/images">Images</a></li>
               <li><a href="#">Explore your area</a></li>
               <li><a href="#">Explore regions</a></li>
               <li><a href="#">Search occurrence records</a></li>
