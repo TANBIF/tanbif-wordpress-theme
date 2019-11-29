@@ -109,7 +109,7 @@
       <!-- Logo section -->
       <div class="row">
         <div class="col-md-12">
-          <h5 class="footer-bonus-heading">The TANBIF is made possible by contributions from its partners, is supported by JRS and hosted by DIT</h5>
+          <h5 class="footer-bonus-heading">This web portal is developed by the Dar es Salaam Institute of Technology and hosted by TanBIF (COSTECH). The development is financially supported by JRS Foundation USA</h5>
         </div>
       </div>
 
