@@ -79,14 +79,14 @@
           <a href="#" title="Spatial portal" class="footer-bonus-link">
             <img class="img-responsive" src="<?php echo get_stylesheet_directory_uri(); ?>/img/footer-bonus-spatial-portal-icon.png" alt="Spatial Portal icon">
           </a>
-          <p class="footer-bonus-description"><a href="https://spatial.ala.org.au/">Explore species occurrence records</a> in the context of their environment. Find records and model species distributions. Export reports, maps and data.</p>
+          <p class="footer-bonus-description"><a href="#">Explore species occurrence records</a> in the context of their environment. Find records and model species distributions. Export reports, maps and data.</p>
         </div>
         <div class="col-md-4 col-sm-12 footer-bonus-item">
           <h5 class="footer-bonus-heading">Join a Citizen Science Project</h5>
           <a href="#" title="Contribute your sightings" class="footer-bonus-link">
             <img class="img-responsive" src="<?php echo get_stylesheet_directory_uri(); ?>/img/footer-bonus-cit-science-icon.png" alt="Citizen Science icon">
           </a>
-          <p class="footer-bonus-description">Find out how you can <a href="https://biocollect.ala.org.au/acsa">contribute to a citizen science project</a> in your area, or explore one of the many citizen science projects supported by the TanBIF Portal.</p>
+          <p class="footer-bonus-description">Find out how you can <a href="#">contribute to a citizen science project</a> in your area, or explore one of the many citizen science projects supported by the TanBIF Portal.</p>
         </div>
         <div class="col-md-4 col-sm-12 footer-bonus-item">
           <h5 class="footer-bonus-heading">Record a sighting</h5>
