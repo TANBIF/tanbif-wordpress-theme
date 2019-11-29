@@ -98,14 +98,14 @@
 
       </div>
       <!-- Acknowledgement section -->
-      <div class="row col-sm-12 acknowledgement-callout acknowledgement-callout-ala">
+      <!-- <div class="row col-sm-12 acknowledgement-callout acknowledgement-callout-ala">
         <div class="col-md-10 col-sm-12">
           <h4 class="margin-bottom-half-1">Acknowledgement of Traditional Owners and Country</h4>
           <p>Excepteur sint occaecat cupidatat non
           proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
         </div>
         <div class="clearfix"></div>
-      </div>
+      </div> -->
       <!-- Logo section -->
       <div class="row">
         <div class="col-md-12">
