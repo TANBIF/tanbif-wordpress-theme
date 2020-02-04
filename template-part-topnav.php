@@ -37,8 +37,8 @@
                   <span class="caret"></span>
                 </a>
                 <ul class="dropdown-menu" role="menu">
-                  <li><a href="https://auth.ala.org.au/userdetails/myprofile/">View profile</a></li>
-                  <li><a href="https://auth.ala.org.au/userdetails/registration/editAccount">Account settings</a></li>
+                  <li><a href="http://auth.tanbif.or.tz/userdetails/myprofile/">View profile</a></li>
+                  <li><a href="http://auth.tanbif.or.tz/userdetails/registration/editAccount">Account settings</a></li>
                   <li class="divider"></li>
                   <li><a href="<?php echo wp_logout_url( home_url() ); ?>">Log out</a></li>
                 </ul>
@@ -60,13 +60,13 @@
               <span class="caret"></span>
             </a>
             <ul class="dropdown-menu" role="menu">
-              <li><a href="/collections">Collections</a></li>
-              <li><a href="/images">Images</a></li>
+              <li><a href="http://collectory.tanbif.or.tz">Collections</a></li>
+              <li><a href="http://images.tanbif.or.tz">Images</a></li>
               <li><a href="#">Explore your area</a></li>
               <li><a href="#">Explore regions</a></li>
-              <li><a href="#">Search occurrence records</a></li>
+              <li><a href="http://biocache.tanbif.or.tz">Search occurrence records</a></li>
               <li class="divider"></li>
-              <li><a href="#">Sites &amp; services</a></li>
+<!--              <li><a href="#">Sites &amp; services</a></li>-->
             </ul>
           </li>
           <li class="dropdown">
@@ -75,8 +75,8 @@
               <span class="caret"></span>
             </a>
             <ul class="dropdown-menu" role="menu">
-              <li><a href="#">Browse natural history collections</a></li>
-              <li><a href="#">Search datasets</a></li>
+              <li><a href="http://collectory.tanbif.or.tz">Browse natural history collections</a></li>
+              <li><a href="http://collectory.tanbif.or.tz/datasets">Search datasets</a></li>
               <li><a href="#">Download data</a>
               <li><a href="#">Spatial portal</a></li>
               <li class="divider"></li>
@@ -133,8 +133,8 @@
         </ul>
         <ul class="nav navbar-nav navbar-right visible-xs">
 <?php if (is_user_logged_in() ) { ?>
-          <li><a href="https://auth.ala.org.au/userdetails/myprofile/"><span class="nav-login">View profile</span></a></li>
-          <li><a href="https://auth.ala.org.au/userdetails/registration/editAccount"><span class="nav-login">Account settings</span></a></li>
+          <li><a href="http://auth.tanbif.or.tz/userdetails/myprofile/"><span class="nav-login">View profile</span></a></li>
+          <li><a href="http://auth.tanbif.or.tz/userdetails/registration/editAccount"><span class="nav-login">Account settings</span></a></li>
           <li><a href="<?php echo wp_logout_url( home_url() ); ?>"><span class="nav-login">Log out</span></a></li>
 <?php } else { ?>
           <li><a href="<?php echo wp_login_url( home_url() ); ?>"><span class="nav-login">Log in</span></a></li>

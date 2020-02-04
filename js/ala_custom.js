@@ -56,16 +56,16 @@ jQuery(document).ready(function($) {
         document.getElementById("ala-jumbotron").style.backgroundImage = "url('" + filename + "')";
     }
  
-    // update ALA stats
-    // if ($(".main-stats").length) {
-    //     var statsUrl = "https://dashboard.ala.org.au/dashboard/homePageStats";
-    //     $.getJSON(statsUrl, function(data) {
-    //         updateStats("#allRecords", data.recordCounts.count.toLocaleString());
-    //         updateStats("#allSpecies", data.speciesCounts.count.toLocaleString());
-    //         updateStats("#allDownloads", data.downloadCounts.events.toLocaleString());
-    //         updateStats("#allUsers", data.userCounts.count.toLocaleString());
-    //     });
-    // }
+    update ALA stats
+    if ($(".main-stats").length) {
+        var statsUrl = "http://dashboard.tanbif.or.tz/dashboard/homePageStats";
+        $.getJSON(statsUrl, function(data) {
+            updateStats("#allRecords", data.recordCounts.count.toLocaleString());
+            updateStats("#allSpecies", data.speciesCounts.count.toLocaleString());
+            updateStats("#allDownloads", data.downloadCounts.events.toLocaleString());
+            updateStats("#allUsers", data.userCounts.count.toLocaleString());
+        });
+    }
     
     // Add floating table of contents (ToC)
     if ($('#toc_container').length) {
